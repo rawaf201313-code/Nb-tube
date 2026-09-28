@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">VidioTube</string>
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_subscriptions">الاشتراكات</string>
+    <string name="nav_live">بث مباشر</string>
+    <string name="nav_downloads">التحميلات</string>
+    <string name="nav_studio">الاستوديو والربح</string>
+    <string name="upload_video">رفع فيديو جديد</string>
+    <string name="start_live">بدء بث مباشر</string>
+    <string name="notifications_title">مركز الإشعارات</string>
+    <string name="dark_mode_toggle">الوضع الليلي</string>
+    <string name="offline_mode_banner">وضع عدم الاتصال بالإنترنت مفعل - تُعرض الفيديوهات المحملة فقط</string>
+    <string name="subscribe">اشتراك</string>
+    <string name="subscribed">مشترك</string>
+    <string name="monetized_badge">مُحقق للربح</string>
+    <string name="skip_ad">تخطي الإعلان</string>
+    <string name="comments_header">التعليقات والتفاعل</string>
+    <string name="add_comment_hint">أضف تعليقاً عاماً...</string>
+    <string name="analytics_retention_title">معدل الاحتفاظ بالجمهور ونسبة المشاهدة</string>
+    <string name="monetization_hub_title">إدارة الإعلانات وأرباح القناة</string>
+</resources>

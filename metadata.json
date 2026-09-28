@@ -1,0 +1,6 @@
+{
+  "name": "VidioTube",
+  "description": "منصة مشاركة الفيديوهات والبث المباشر مع استوديو تحليلات متكامل، الاشتراكات، المشاهدة بدون إنترنت، وتحقيق الربح من الإعلانات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
